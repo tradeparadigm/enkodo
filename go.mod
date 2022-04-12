@@ -1,3 +1,3 @@
-module github.com/mojura/enkodo
+module github.com/tradeparadigm/enkodo
 
 go 1.15
